@@ -1,5 +1,6 @@
 # ubuntu18.04mate_vagrant
-Vagrant File for Ubuntu 18.04
+
+Vagrant File for Ubuntu 18.04 Mate Desktop
 
 ## Last update/tests
 
