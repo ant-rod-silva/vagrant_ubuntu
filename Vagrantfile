@@ -9,7 +9,6 @@ box_memory = '2048'
 box_hostname = 'django'
 box_cpus = 2
 box_ip = '192.168.99.100'
-private_key_path = 'C:\Users\rodri\.vagrant.d\insecure_private_key'
 color_off = "\033[0m"
 color_red = "\033[31m"
 color_yellow = "\033[33m"
