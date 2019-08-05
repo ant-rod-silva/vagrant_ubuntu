@@ -1,6 +1,6 @@
-# ubuntu18.04mate_vagrant
+# VagrantCave
 
-Vagrant File for Ubuntu 18.04 Mate Desktop
+Collection of Vagrant Files for Virtual Machines.
 
 ## Last update/tests
 
