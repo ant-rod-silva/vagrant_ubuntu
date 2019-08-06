@@ -10,7 +10,7 @@ Output:
 ```
 ==> box: Box file was not detected as metadata. Adding it directly...
 ==> box: Adding box 'martijnsips/UbuntuMate1804LTS' (v0) for provider:
-    box: Unpacking necessary files from: file://C:/Users/rodri/Desktop/UbuntuMate1804.box
+    box: Unpacking necessary files from: file://C:/Users/fulanoddetal/Desktop/UbuntuMate1804.box
     box:
 ==> box: Successfully added box 'martijnsips/UbuntuMate1804LTS' (v0) for 'virtualbox'!
 ```
