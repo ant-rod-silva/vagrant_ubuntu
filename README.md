@@ -14,7 +14,6 @@ Collection of Vagrant Files for Virtual Machines.
 Internet connection
 Oracle Virtualbox >= 5.2.12 installed
 Vagrant installed
-Babun Shell installed (if Windows) - http://babun.github.io/
 ```
 
 ### Login and password
